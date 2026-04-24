@@ -10,7 +10,7 @@ Built for Semester IV B.E. ECE — Introduction to Agentic AI Systems.
 
 
 
-🔗 \*\*Live Demo:\*\* \[https://debate-agent.onrender.com](https://debate-agent.onrender.com)
+🔗 \*\*Live Demo:\*\* \[https://debate-agent-ni72.onrender.com]
 
 
 
