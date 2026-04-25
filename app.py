@@ -19,7 +19,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("⚖️ Debate Research Agent")
-st.caption("Powered by 6 AI agents + Gemini + Tavily live search")
+st.caption("Powered by 6 AI agents + Groq + Tavily live search")
 
 st.markdown("**Agents in pipeline:**")
 for label in ["A1 Pro Researcher", "A2 Con Researcher", "A3 Source Validator",
